@@ -1,0 +1,50 @@
+# hackajob
+
+> AI agents for hiring — connecting jobseekers and employers across the UK and US. hackajob runs a live jobs directory, a company directory, and a content library (blog, guides, events, reports).
+
+## For jobseekers
+
+- [AI Job Matching — Find Roles You're Qualified For | hackajob](https://hackajob.com/talent): Archer finds roles where you genuinely match and shows you exactly why — so you apply with confidence, not blind hope. Free for candidates. 5x more likely to get an interview.
+- [Candidate Terms and Conditions | hackajob](https://hackajob.com/talent/terms-and-condition): Read the candidate terms and conditions associated with using hackajob.
+- [hackajob - Referral terms of service](https://hackajob.com/talent/referral-terms): Explore hackajob's Referral Program and earn exciting bonuses by referring new users! Discover the details, eligibility criteria, and bonus payment process in our transparent terms and conditions.
+- [Job Applicant Privacy Notice | hackajob](https://hackajob.com/talent/job-applicant-privacy): Protecting your privacy during recruitment processes is our priority. Learn how we handle your personal data and your rights under the GDPR. Contact us for any inquiries.
+- [Contact Us  | Talent | hackajob](https://hackajob.com/contact-us): Get in touch with hackajob through our contact form, and a member of our friendly team will get back to you!
+- [Live Tech Jobs | Software Developer Jobs | hackajob](https://hackajob.com/jobs): Find your next job in tech. Browse our jobs directory and get matched with top employers in the UK and US. Remote jobs available.
+- [Employers Hiring on hackajob | hackajob](https://hackajob.com/companies): Companies hiring on hackajob. Find your next tech job and get matched with top employers. Remote jobs available.
+- [Talent blog | hackajob](https://hackajob.com/talent/blog): Career advice, tech tutorials and interviews for developers and tech professionals — from the hackajob talent community.
+- [Sign Up | hackajob](https://hackajob.com/talent/sign-up): Sign up to hackajob and tell us your skills, and we'll do the hard work matching you with employers that suit your requirements.
+- [You've been invited to hackajob — AI Job Matching](https://hackajob.com/talent/invite): Someone's invited you to hackajob — where Archer finds roles you genuinely match and shows you exactly why. Free for candidates. 5x more likely to get an interview.
+- [Sign Up to Discover Your Next Tech Role | hackajob](https://hackajob.com/talent/discover): Sign up to the hackajob platform and start your journey to a better role in tech.
+- [Talent Manifesto | hackajob](https://hackajob.com/talent/manifesto): Find your next developer job with hackajob. Work with the best Software Developers, DevOps Engineers and amazing tech teams in the UK and US.
+- [Roles companies hire for | hackajob](https://hackajob.com/talent/talent-pool): Discover top tech talent from a global talent pool of 900,000+, across all expertise levels and disciplines. Hire qualified candidates for your tech job vacancies today.
+- [Learn in-demand tech skills with Upskill | hackajob](https://hackajob.com/talent/upskill): Test your capabilities and showcase your ambition with hackajob's Upskill plaform, testing your coding, frameworks and tooling knowledge.
+- [Careers in Tech | hackajob](https://hackajob.com/talent/careers-in-tech): Explore tech career paths — the skills, salaries and routes in. Practical, no-fluff guides from the hackajob editorial team.
+
+## For employers
+
+- [Employer Terms and Conditions | hackajob](https://hackajob.com/employer/terms-and-conditions): Read the employer terms and conditions associated with using hackajob.
+- [Archer | The AI sourcing agent for passive, in-demand talent](https://hackajob.com/employer): The AI sourcing agent for passive, in-demand talent. Calibrated by your recruiter, qualified candidates in your ATS, live in days.
+- [hackajob - Referral terms of service](https://hackajob.com/employer/referral-terms): Explore hackajob's Referral Program and earn exciting bonuses by referring new users! Discover the details, eligibility criteria, and bonus payment process in our transparent terms and conditions.
+- [AI Agents That Fast-Track Hiring | Source, Screen, Qualify | hackajob](https://hackajob.com/employer/agents): Accelerate your hiring with AI agents that source, screen, and qualify candidates |
+- [Meet Chase | AI recruiter to source, engage and qualify top talent](https://hackajob.com/employer/agents/chase): Chase is your AI recruiter that sources, qualifies, and schedules interviews across all channels—so you can focus on closing great hires
+- [Meet Thena | AI Agent to find best applicants faster](https://hackajob.com/employer/agents/thena): Thena is the AI agent that screens every applicant using your full hiring brief. Cut manual review time by 70% and never miss top talent.
+- [Book a demo | Archer | hackajob](https://hackajob.com/employer/book-a-demo): See Archer running on your real roles. A 30-minute demo with one of our team, plus a no-commitment free trial. Book your slot.
+- [Employer Resources](https://hackajob.com/employer/blog): We exist to bring great people together with great companies, helping them to drive the world forward. #thepowerofpeoplebuilding
+- [Why are passive candidates not engaging with your roles?](https://hackajob.com/employer/solutions/hiring-insights): Real-time decline signal from passive talent, segmented by background, comp, location and brand. Benchmarked against your peers.
+- [AI-Powered Tech Contractor Hiring | Hire Elite Talent Faster | hackajob](https://hackajob.com/employer/on-demand): Hire elite tech contractors quickly and compliantly with AI-powered solutions, reducing costs and interview times while ensuring top talent matches your specific needs.
+- [Security Clearance | Solutions | hackajob](https://hackajob.com/employer/solutions/security-clearance): Streamline your hiring with hackajob: Technically screened candidates eligible for Security Clearance (SC) and Developed Vetting (DV).
+- [Case Studies | Save Time and Costs with hackajob](https://hackajob.com/employer/case-studies): Discover how leading companies streamline hiring with hackajob, achieving 60% savings on costs and significantly reduced interview times while accessing top tech talent.
+- [Integrations | Talent Engagement - Hiring Platform | hackajob](https://hackajob.com/employer/integrations): Streamline Your Hiring Process with hackajob's ATS Integrations. Seamlessly connect your applicant tracking system and supercharge your recruitment efforts. Find the best talent faster and more efficiently.
+- [Talent Pool | hackajob](https://hackajob.com/employer/talent-pool): Discover top tech talent from a global talent pool of 900,000+, across all expertise levels and disciplines. Hire qualified candidates for your tech job vacancies today.
+- [AI Sourcing Guide | hackajob](https://hackajob.com/employer/ai-sourcing-guide): Application volumes are up but hire quality is down. Here's why your job ads are generating noise instead of results, and what actually fixes it.
+- [hackajob Reports - Companies Hiring Tech Talent Fast](https://hackajob.com/employer/reports): Read hackajob's industry-leading reports to help your company hire tech talent fast.
+- [The 2025 AI Hiring Benchmark Report – Trends, Challenges & Solutions](https://hackajob.com/employer/2025-ai-hiring-benchmark-report): Discover the latest AI hiring trends, salary benchmarks, and insights from top AI professionals. Download our exclusive 2025 AI Hiring Benchmark Report.
+
+## Company & legal
+
+- [hackajob - AI agents for hiring](https://hackajob.com/): AI agents for jobseekers and employers—making hiring easier, faster and fairer. Sign up or enjoy a FREE trial today
+- [About Us | hackajob for Candidates](https://hackajob.com/about-us): hackajob offers online solutions on tech recruitment for both candidates and companies. hackajob is founded in 2015 and have offices in the UK and Romania.
+- [Terms and Conditions | hackajob](https://hackajob.com/terms-and-conditions): Read the terms and conditions associated with using hackajob.
+- [Privacy Policy | hackajob](https://hackajob.com/privacy-policy): Read the privacy policy associated with using hackajob.
+- [Cookie Policy | hackajob](https://hackajob.com/cookie-policy): Read the privacy policy associated with using hackajob.
+- [Company News | hackajob](https://hackajob.com/news): The latest company news and views from hackajob. Learn why employers use hackajob to hire the best Software Developers, DevOps Engineers and amazing tech teams in the UK and US.

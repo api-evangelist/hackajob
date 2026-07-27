@@ -1,8 +1,31 @@
 aid: hackajob
 name: Hackajob
-description: Hackajob is a company surfaced as a portfolio company of techstars and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Hackajob is a UK-founded (2015) tech-recruitment platform that connects
+  jobseekers and employers across the UK and US using AI hiring agents. Its
+  flagship product, Archer, is an always-on AI sourcing agent that finds,
+  qualifies, and introduces high-fit passive candidates directly into an
+  employer's ATS, complemented by agents Chase (AI recruiter) and Thena
+  (applicant screening). Alongside the AI agents it runs an On-Demand contract
+  hiring marketplace, a Talent Intelligence / hiring-insights product, an Upskill
+  skills-assessment tool, and public jobs and company directories drawing on a
+  talent network of 1.5M+ vetted knowledge workers. Hackajob does not currently
+  publish a public developer API or SDK; this profile captures its public web,
+  security, and trust surface. Added to the API Evangelist network as a Techstars
+  portfolio lead and enriched from real public sources.
 url: https://raw.githubusercontent.com/api-evangelist/hackajob/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://hackajob.com/og-default.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +34,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Recruitment
+- Hiring
+- Talent
+- Jobs
+- HR Tech
+- AI Agents
+- Contract Hiring
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +52,31 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://hackajob.co/
+  url: https://hackajob.com/
+- type: Blog
+  url: https://hackajob.com/talent/blog
+- type: TermsOfService
+  url: https://hackajob.com/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://hackajob.com/privacy-policy
+- type: SignUp
+  url: https://hackajob.com/talent/sign-up
+- type: Login
+  url: https://hackajob.com/talent/login
+- type: Support
+  url: https://hackajob.com/contact-us
+- type: GitHubOrganization
+  url: https://github.com/hackajob
+- type: LLMsTxt
+  url: llms/hackajob-llms.txt
+- type: TrustCenter
+  url: security/hackajob-trust-center.yml
+- type: Compliance
+  url: https://trust.hackajob.com/
+- type: DomainSecurity
+  url: security/hackajob-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
